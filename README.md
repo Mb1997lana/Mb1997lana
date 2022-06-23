@@ -1,4 +1,4 @@
-## Olá! Eu sou o Murilo Barbosa. Sou iniciante no mundo da prigramação e estou caminhando para o Full Stack Developer
+## Olá! Eu sou o Murilo Barbosa. Sou iniciante no mundo da programação e estou caminhando para o Full Stack Developer
 
 - 🔭 Hoje trabalho como suporte técnico
 - 🌱 Estudando HTML/CSS/JavaScript/Angular/TypeScript/Java
